@@ -1,10 +1,14 @@
-<h1 align="left">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1 align="left">Hey<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />! What's up?</h1>
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">📚 Studying a master's degree in Data Science.<br>💻 Working on computational biology.</p>
+<p>My name is Raúl and I am a bioinformatician from Barcelona, Spain.</p>
+
+<p>I am currently:</p>
+
+<p align="left">&nbsp;💻 Working on the computational biology field.<br> &nbsp;📚 Studying a master's degree in health data science.</p>
 
 ###
 
