@@ -1,16 +1,10 @@
 <h1 align="left">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-###
-
-<p align="left">My name is Raúl and I'm a bioinformatician.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 Studying a master's degree in Data Science.<br>💻 Working on computational biology.</p>
 
 ###
 
